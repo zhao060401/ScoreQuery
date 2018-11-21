@@ -1,0 +1,2 @@
+# ScoreQuery
+SSM project
