@@ -58,7 +58,13 @@
                   </ul>
                 </li>
               </ul>
+              
+             <ul class="nav navbar-nav navbar-right">
+	              <li><a href="${APP_PATH}/pass/serviceLogin">登录</a></li>
+	              <li><a href="${APP_PATH}/pass/register">注册</a></li>
+             </ul>
             </div>
+            
           </div>
         </nav>
 
